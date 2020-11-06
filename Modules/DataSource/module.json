@@ -1,0 +1,13 @@
+{
+    "name": "DataSource",
+    "alias": "datasource",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\DataSource\\Providers\\DataSourceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

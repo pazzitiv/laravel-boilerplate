@@ -1,0 +1,8 @@
+{
+    "User": true,
+    "Auth": true,
+    "Role": true,
+    "Group": true,
+    "SubModules": true,
+    "DataSource": true
+}

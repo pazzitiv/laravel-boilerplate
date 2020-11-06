@@ -1,0 +1,566 @@
+GET http://localhost:8000/api/auth/refresh?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9sb2dpbiIsImlhdCI6MTYwNDMxMDY3MCwiZXhwIjoxNjA0MzE0MjcwLCJuYmYiOjE2MDQzMTA2NzAsImp0aSI6IlNLTk82UlVsY29hbGNtSHEiLCJzdWIiOjEsInBydiI6IjQzZDY4YjU4M2JhNTMwN2Y5ZWUyY2RkZTE0ZDBiYThlZmVjN2M1MTcifQ.iT_zIg5ZMEZee-4gjJYDSx1I-5_1gV40m_NGCVAsnDM
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-11-03T010325.403.json
+
+###
+
+GET http://localhost:8000/api/auth/refresh?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9sb2dpbiIsImlhdCI6MTYwNDMxMDY3MCwiZXhwIjoxNjA0MzE0MjcwLCJuYmYiOjE2MDQzMTA2NzAsImp0aSI6IlNLTk82UlVsY29hbGNtSHEiLCJzdWIiOjEsInBydiI6IjQzZDY4YjU4M2JhNTMwN2Y5ZWUyY2RkZTE0ZDBiYThlZmVjN2M1MTcifQ.iT_zIg5ZMEZee-4gjJYDSx1I-5_1gV40m_NGCVAsnDM
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-11-02T041026.200.json
+
+###
+
+GET http://localhost:8000/api/auth/refresh?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9sb2dpbiIsImlhdCI6MTYwNDMxMDY3MCwiZXhwIjoxNjA0MzE0MjcwLCJuYmYiOjE2MDQzMTA2NzAsImp0aSI6IlNLTk82UlVsY29hbGNtSHEiLCJzdWIiOjEsInBydiI6IjQzZDY4YjU4M2JhNTMwN2Y5ZWUyY2RkZTE0ZDBiYThlZmVjN2M1MTcifQ.iT_zIg5ZMEZee-4gjJYDSx1I-5_1gV40m_NGCVAsnDM
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-11-02T125138.404.json
+
+###
+
+GET http://localhost:8000/api/auth/refresh?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9sb2dpbiIsImlhdCI6MTYwNDMxMDY3MCwiZXhwIjoxNjA0MzE0MjcwLCJuYmYiOjE2MDQzMTA2NzAsImp0aSI6IlNLTk82UlVsY29hbGNtSHEiLCJzdWIiOjEsInBydiI6IjQzZDY4YjU4M2JhNTMwN2Y5ZWUyY2RkZTE0ZDBiYThlZmVjN2M1MTcifQ.iT_zIg5ZMEZee-4gjJYDSx1I-5_1gV40m_NGCVAsnDM
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-11-02T125131.404.json
+
+###
+
+GET http://localhost:8000/api/auth/login?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-11-02T125111.200.json
+
+###
+
+GET http://localhost:8000/api/auth/refresh?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-11-02T125057.403.json
+
+###
+
+GET http://localhost:8000/api/auth/refresh?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-26T033919.200.json
+
+###
+
+GET http://localhost:8000/api/auth/login?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-26T033842.200.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T075456.200.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T075425.200.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T075158.200.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T075119.200.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T074958.500.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T074906.200.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T074759.500.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T074619.500.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T074040.500.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T073931.200.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T073406.200.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T073116.200.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T072207.200.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T072039.500.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T072029.500.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T072011.500.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T071755.500.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T071502.200.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T071225.200.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T071137.200.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T070647.200.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T070509.500.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T070302.200.json
+
+###
+
+GET http://localhost:8000/api/auth/refresh?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODI1MzMsIm5iZiI6MTYwMzM3ODkzMywianRpIjoiWElhUFFVUmxlcEJYZWJmTyIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.kdmLyPVwOcLFGg9puFEpEQk6LErDseDW66z-8O0ynJ0
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T070245.200.json
+
+###
+
+GET http://localhost:8000/api/datasource?login=pazzitiv&password=123qwe
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODI1MzMsIm5iZiI6MTYwMzM3ODkzMywianRpIjoiWElhUFFVUmxlcEJYZWJmTyIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.kdmLyPVwOcLFGg9puFEpEQk6LErDseDW66z-8O0ynJ0
+
+{     "name": "Test",     "modules": [         {             "id": 1,             "permissions": {                 "create": false,                 "read": true,                 "update": false,                 "delete": true             }         }     ] }
+
+<> 2020-10-22T070238.401.json
+
+###
+

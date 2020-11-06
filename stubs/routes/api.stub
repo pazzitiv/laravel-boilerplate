@@ -1,0 +1,15 @@
+<?php
+
+use Illuminate\Routing\Router;
+use Illuminate\Support\Facades\Route;
+
+Route::group([
+    'middleware' => 'api',
+    'prefix' => '$LOWER_NAME$',
+], function (Router $router) {
+    Route::get('/{id}', '$STUDLY_NAME$Controller@show');
+    Route::delete('/{id}', '$STUDLY_NAME$Controller@destroy');
+    Route::patch('/{id}', '$STUDLY_NAME$Controller@update');
+    Route::post('/', '$STUDLY_NAME$Controller@store');
+    Route::get('/', '$STUDLY_NAME$Controller@index');
+});

@@ -1,0 +1,88 @@
+<?php
+
+namespace $CLASS_NAMESPACE$;
+
+use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
+use Illuminate\Foundation\Bus\DispatchesJobs;
+use Illuminate\Foundation\Validation\ValidatesRequests;
+use Illuminate\Http\JsonResponse;
+use Illuminate\Routing\Controller;
+use Symfony\Component\HttpKernel\Exception\AccessDeniedHttpException;
+
+class $CLASS$ extends Controller
+{
+    use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
+
+    private string $module = '$STUDLY_NAME$';
+
+    /**
+     * @return string
+     */
+    public function getModule(): string
+    {
+        return $this->module;
+    }
+
+    /**
+     * Display a listing of the resource.
+     * @return JsonResponse
+     */
+    public function index(): JsonResponse
+    {
+        $user = request()->user();
+        throw_if($user->cannot('read', $this ), AccessDeniedHttpException::class, 'accessDenied');
+
+        return response()->json(null);
+    }
+
+    /**
+     * Store a newly created resource in storage.
+     * @return JsonResponse
+     */
+    public function store(): JsonResponse
+    {
+        $user = request()->user();
+        throw_if($user->cannot('create', $this ), AccessDeniedHttpException::class, 'accessDenied');
+
+        return response()->json(null);
+    }
+
+    /**
+     * Show the specified resource.
+     * @param int $id
+     * @return JsonResponse
+     */
+    public function show(int $id): JsonResponse
+    {
+        $user = request()->user();
+        throw_if($user->cannot('read', $this ), AccessDeniedHttpException::class, 'accessDenied');
+
+        return response()->json(null);
+    }
+
+    /**
+     * Update the specified resource in storage.
+     * @param int $id
+     * @return JsonResponse
+     */
+    public function update(int $id): JsonResponse
+    {
+        $user = request()->user();
+        throw_if($user->cannot('update', $this ), AccessDeniedHttpException::class, 'accessDenied');
+
+        return response()->json(null);
+    }
+
+    /**
+     * Remove the specified resource from storage.
+     * @param int $id
+     * @return JsonResponse
+     */
+    public function destroy(int $id): JsonResponse
+    {
+        $user = request()->user();
+        throw_if($user->cannot('delete', $this ), AccessDeniedHttpException::class, 'accessDenied');
+
+        return response()->json(null);
+    }
+}

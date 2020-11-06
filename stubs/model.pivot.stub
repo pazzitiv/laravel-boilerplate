@@ -1,0 +1,10 @@
+<?php
+
+namespace $NAMESPACE$;
+
+use Extensions\Database\Eloquent\Relations\Pivot;
+
+class $CLASS$ extends Pivot
+{
+    //
+}

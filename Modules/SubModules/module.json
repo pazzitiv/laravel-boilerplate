@@ -1,0 +1,13 @@
+{
+    "name": "SubModules",
+    "alias": "submodules",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\SubModules\\Providers\\SubModulesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

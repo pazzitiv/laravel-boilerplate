@@ -1,0 +1,9 @@
+<?php
+
+return [
+    'name' => '$STUDLY_NAME$',
+    'moduleSystem' => [
+        'module' => '$LOWER_NAME$',
+        'parentModule' => null,
+    ]
+];

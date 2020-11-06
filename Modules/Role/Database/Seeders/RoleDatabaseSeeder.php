@@ -1,0 +1,29 @@
+<?php
+
+namespace Modules\Role\Database\Seeders;
+
+use Illuminate\Database\Seeder;
+use Illuminate\Database\Eloquent\Model;
+
+use Modules\Role\Entities\Role;
+
+class RoleDatabaseSeeder extends Seeder
+{
+    /**
+     * Run the database seeds.
+     *
+     * @return void
+     */
+    public function run()
+    {
+        Model::unguard();
+
+        Role::create([
+            'code' => 'admin',
+            'name' => 'Администратор'
+        ]);
+
+        $this->call(RolePermissionsSeederTableSeeder::class)
+        ;
+    }
+}

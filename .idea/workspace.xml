@@ -1,0 +1,2496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75fd6d76-d8e8-449b-8632-ebd1af626ef4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="127.0.0.1" id="a55bcba5-369a-479e-a18d-f0ad0fdd52e0" name="127.0.0.1" port="8000" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4.10">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/nwidart/laravel-modules" />
+      <path value="$PROJECT_DIR$/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1gMc1ed5PgFZEjXVaJVwNfXbysK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Modules/Polymatica/Helpers" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="COPY_ALWAYS" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitLab\testpack\Extensions\Polymatica" />
+      <recent name="D:\GitLab\testpack\Modules\Role\Database\Migrations" />
+      <recent name="D:\GitLab\testpack\app\Exceptions" />
+      <recent name="D:\GitLab\testpack\Modules\User\Database\factories" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GitLab\testpack\Modules\Polymatica\Helpers" />
+      <recent name="D:\GitLab\testpack\stubs" />
+      <recent name="D:\GitLab\testpack\Modules\Auth\Policies" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9sb2dpbiIsImlhdCI6MTYwNDMxMDY3MCwiZXhwIjoxNjA0MzE0MjcwLCJuYmYiOjE2MDQzMTA2NzAsImp0aSI6IlNLTk82UlVsY29hbGNtSHEiLCJzdWIiOjEsInBydiI6IjQzZDY4YjU4M2JhNTMwN2Y5ZWUyY2RkZTE0ZDBiYThlZmVjN2M1MTcifQ.iT_zIg5ZMEZee-4gjJYDSx1I-5_1gV40m_NGCVAsnDM" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODYxNjUsIm5iZiI6MTYwMzM4MjU2NSwianRpIjoiQTFkOUh5V01Xemhab0Z2TCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.CRNpk3KpW1XaqlVFjckSLfh1MQBm_FPbls03A-NajEE" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODI1MzMsIm5iZiI6MTYwMzM3ODkzMywianRpIjoiWElhUFFVUmxlcEJYZWJmTyIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.kdmLyPVwOcLFGg9puFEpEQk6LErDseDW66z-8O0ynJ0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzODI1MzMsIm5iZiI6MTYwMzM3ODkzMywianRpIjoiWElhUFFVUmxlcEJYZWJmTyIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.kdmLyPVwOcLFGg9puFEpEQk6LErDseDW66z-8O0ynJ0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzNzc0MTYsIm5iZiI6MTYwMzM3MzgxNiwianRpIjoiZGp0bktrdmw5ZmVYM1JmdiIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.sGZgEYhbZi-HqxyphYx4eoLr6oCaV0pUdlEfNg_FWaU" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzNzc0MTYsIm5iZiI6MTYwMzM3MzgxNiwianRpIjoiZGp0bktrdmw5ZmVYM1JmdiIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.sGZgEYhbZi-HqxyphYx4eoLr6oCaV0pUdlEfNg_FWaU" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzNzIxMzQsIm5iZiI6MTYwMzM2ODUzNCwianRpIjoiaXRqWGVpMWpaYU52MWF0eSIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.Nhqh3_4oCiSNOp3SzTzBHtAXpVZ5_2Y3GeLgybVaL8o" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzNzIxMzQsIm5iZiI6MTYwMzM2ODUzNCwianRpIjoiaXRqWGVpMWpaYU52MWF0eSIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.Nhqh3_4oCiSNOp3SzTzBHtAXpVZ5_2Y3GeLgybVaL8o" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzNjY2NTIsIm5iZiI6MTYwMzM2MzA1MiwianRpIjoiZjBxb2w1OGZ3NHZWb0dwUCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.fYFShvO2DUCnTDk-a0UH1JahneIqrOQodDtZ2Q3FoAU" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzNjY2NTIsIm5iZiI6MTYwMzM2MzA1MiwianRpIjoiZjBxb2w1OGZ3NHZWb0dwUCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.fYFShvO2DUCnTDk-a0UH1JahneIqrOQodDtZ2Q3FoAU" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzNjI5MTcsIm5iZiI6MTYwMzM1OTMxNywianRpIjoiVjk3R2tSRTJBYzNiYThJayIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.sYeL1XiVgUHRGpzfERz241Mi0I64UZ4S3FWbtTteKLs" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMzNjI5MTcsIm5iZiI6MTYwMzM1OTMxNywianRpIjoiVjk3R2tSRTJBYzNiYThJayIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.sYeL1XiVgUHRGpzfERz241Mi0I64UZ4S3FWbtTteKLs" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMyMDUzMjIsIm5iZiI6MTYwMzIwMTcyMiwianRpIjoiYmtMTW01NUI3T3hjSVgyaiIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.at6351SYs-mmPVNcmyPVcOhHKIw_3xd4kvYahrtfeL8" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMyMDUzMjIsIm5iZiI6MTYwMzIwMTcyMiwianRpIjoiYmtMTW01NUI3T3hjSVgyaiIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.at6351SYs-mmPVNcmyPVcOhHKIw_3xd4kvYahrtfeL8" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMxODczNDgsIm5iZiI6MTYwMzE4Mzc0OCwianRpIjoiVWZnaGdPeThOYUdmYkVQRCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.ff6upan3Ah3yWEN-pDQIf1Z5h4StFuIAoqIttfozyQE" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMxODczNDgsIm5iZiI6MTYwMzE4Mzc0OCwianRpIjoiVWZnaGdPeThOYUdmYkVQRCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.ff6upan3Ah3yWEN-pDQIf1Z5h4StFuIAoqIttfozyQE" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMxMjE5NzMsIm5iZiI6MTYwMzExODM3MywianRpIjoiN1F4UHBTaTZTbm15TEkyUyIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.nWGc3s6Ws-5zj7U33NpKlNclusMu4ckmCM3nn1N33wE" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMxMjE5NzMsIm5iZiI6MTYwMzExODM3MywianRpIjoiN1F4UHBTaTZTbm15TEkyUyIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.nWGc3s6Ws-5zj7U33NpKlNclusMu4ckmCM3nn1N33wE" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMxMTI2MTAsIm5iZiI6MTYwMzEwOTAxMCwianRpIjoiTDVleUY2b1NkbFJQaFNidSIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.WoWaJE9_5OLi000TfdFVqTEiXydrwbRTtPO4Dv3kK6M" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMxMTI2MTAsIm5iZiI6MTYwMzEwOTAxMCwianRpIjoiTDVleUY2b1NkbFJQaFNidSIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.WoWaJE9_5OLi000TfdFVqTEiXydrwbRTtPO4Dv3kK6M" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMxMDg5MDksIm5iZiI6MTYwMzEwNTMwOSwianRpIjoiZjN1WWNXemFsbVQ1UThYMyIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.r5Hu6Z8E8rmfbe40np9ibrFHfpy6fwnSQFNKEkPZuGI" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDMxMDg5MDksIm5iZiI6MTYwMzEwNTMwOSwianRpIjoiZjN1WWNXemFsbVQ1UThYMyIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.r5Hu6Z8E8rmfbe40np9ibrFHfpy6fwnSQFNKEkPZuGI" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDI2MDMxMTQsIm5iZiI6MTYwMjU5OTUxNCwianRpIjoibElUckUyZjRPTnhPMzFQaCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.N3Ib07cwfu6S5jch9F4S4YFIIl31thSlOW48FNl0j2g" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDI2MDMxMTQsIm5iZiI6MTYwMjU5OTUxNCwianRpIjoibElUckUyZjRPTnhPMzFQaCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.N3Ib07cwfu6S5jch9F4S4YFIIl31thSlOW48FNl0j2g" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDI1OTk0MDksIm5iZiI6MTYwMjU5NTgwOSwianRpIjoiVTJSWkVtek9HSjF2Z25YSCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.J0vMXEj0uGb3W4X_vTjlFphtf5YSV_8-Sas-Auw5SMY" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDI1OTk0MDksIm5iZiI6MTYwMjU5NTgwOSwianRpIjoiVTJSWkVtek9HSjF2Z25YSCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.J0vMXEj0uGb3W4X_vTjlFphtf5YSV_8-Sas-Auw5SMY" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDI1OTU2NjEsIm5iZiI6MTYwMjU5MjA2MSwianRpIjoiS21kME8wcGU2YWk0Tk5ZRiIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.PR1-q4o4ReS1X5wEkKdrjZptzLewWkm1VWHSsxh0KKE" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDI1OTU2NjEsIm5iZiI6MTYwMjU5MjA2MSwianRpIjoiS21kME8wcGU2YWk0Tk5ZRiIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.PR1-q4o4ReS1X5wEkKdrjZptzLewWkm1VWHSsxh0KKE" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDI1OTE1NTksIm5iZiI6MTYwMjU4Nzk1OSwianRpIjoiZVdzWThtUDlnb0wwRjdobSIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.L82T4YfXTyPr0Di8hWpDWMdc6qiHbETHp8ur4dxIZ9A" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDI1OTE1NTksIm5iZiI6MTYwMjU4Nzk1OSwianRpIjoiZVdzWThtUDlnb0wwRjdobSIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.L82T4YfXTyPr0Di8hWpDWMdc6qiHbETHp8ur4dxIZ9A" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDI1ODc5MDksIm5iZiI6MTYwMjU4NDMwOSwianRpIjoiR0RwT2hlYWRtVExzdE5zYiIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.Zsj7-Ggmwt3pcv6e7RIo4YPtcmXsat6PWYShZBGPdoU" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDI1ODc5MDksIm5iZiI6MTYwMjU4NDMwOSwianRpIjoiR0RwT2hlYWRtVExzdE5zYiIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.Zsj7-Ggmwt3pcv6e7RIo4YPtcmXsat6PWYShZBGPdoU" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDI1ODQwNTMsIm5iZiI6MTYwMjU4MDQ1MywianRpIjoiM0lyMWFrYUR6dDhwUFRoTSIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.0nWjbqtYKsRTf3FSgTe3t77u-AlNJLuXHBJqzV5QHx0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDI1ODQwNTMsIm5iZiI6MTYwMjU4MDQ1MywianRpIjoiM0lyMWFrYUR6dDhwUFRoTSIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.0nWjbqtYKsRTf3FSgTe3t77u-AlNJLuXHBJqzV5QHx0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDI1Nzk2NjMsIm5iZiI6MTYwMjU3NjA2MywianRpIjoiVjhtczFaQ3FwZnVpdEFkYSIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.x96uLWfDKIJ59Mx2JHU3SKLTn4BuOMPZ8jYEtLj5xnw" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAyNTcyMDY2LCJleHAiOjE2MDI1Nzk2NjMsIm5iZiI6MTYwMjU3NjA2MywianRpIjoiVjhtczFaQ3FwZnVpdEFkYSIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.x96uLWfDKIJ59Mx2JHU3SKLTn4BuOMPZ8jYEtLj5xnw" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9sb2dpbiIsImlhdCI6MTYwMjU3MjA2NiwiZXhwIjoxNjAyNTc1NjY2LCJuYmYiOjE2MDI1NzIwNjYsImp0aSI6IkJnd0lEZFNFSDZqeVg0Z1oiLCJzdWIiOjEsInBydiI6IjQzZDY4YjU4M2JhNTMwN2Y5ZWUyY2RkZTE0ZDBiYThlZmVjN2M1MTcifQ.vkTuxTGbpFTQRSNwX702V2r9Now7qrrJZqj19dU5tLM" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9sb2dpbiIsImlhdCI6MTYwMjU3MjA2NiwiZXhwIjoxNjAyNTc1NjY2LCJuYmYiOjE2MDI1NzIwNjYsImp0aSI6IkJnd0lEZFNFSDZqeVg0Z1oiLCJzdWIiOjEsInBydiI6IjQzZDY4YjU4M2JhNTMwN2Y5ZWUyY2RkZTE0ZDBiYThlZmVjN2M1MTcifQ.vkTuxTGbpFTQRSNwX702V2r9Now7qrrJZqj19dU5tLM" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAxMzAzNTYwLCJleHAiOjE2MDI1MTA1MjEsIm5iZiI6MTYwMjUwNjkyMSwianRpIjoiTmN1c3VvVUxQQXpJZlZiRyIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.BC8OaIOA5AaaLlKNFGkfH6nvI-EFHFGruZ7HpuOfd7w" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAxMzAzNTYwLCJleHAiOjE2MDI1MTA1MjEsIm5iZiI6MTYwMjUwNjkyMSwianRpIjoiTmN1c3VvVUxQQXpJZlZiRyIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.BC8OaIOA5AaaLlKNFGkfH6nvI-EFHFGruZ7HpuOfd7w" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAxMzAzNTYwLCJleHAiOjE2MDI1MTA1MjEsIm5iZiI6MTYwMjUwNjkyMSwianRpIjoiTmN1c3VvVUxQQXpJZlZiRyIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.BC8OaIOA5AaaLlKNFGkfH6nvI-EFHFGruZ7HpuOfd7w" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAxMzAzNTYwLCJleHAiOjE2MDI1MDY4MzYsIm5iZiI6MTYwMjUwMzIzNiwianRpIjoiOFE3bDZHdUJhQXlobEpqWCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.dXoTAXYgJXx1-c8WL-1udeZ764XilVMEGbNFu2hEaCo" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAxMzAzNTYwLCJleHAiOjE2MDI1MDY4MzYsIm5iZiI6MTYwMjUwMzIzNiwianRpIjoiOFE3bDZHdUJhQXlobEpqWCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.dXoTAXYgJXx1-c8WL-1udeZ764XilVMEGbNFu2hEaCo" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAxMzAzNTYwLCJleHAiOjE2MDI1MDY4MzYsIm5iZiI6MTYwMjUwMzIzNiwianRpIjoiOFE3bDZHdUJhQXlobEpqWCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.dXoTAXYgJXx1-c8WL-1udeZ764XilVMEGbNFu2hEaCo" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAxMzAzNTYwLCJleHAiOjE2MDEzNjcyMTksIm5iZiI6MTYwMTM2MzYxOSwianRpIjoiYWQ5MnFWd2VzWkY0dkZBcCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.O-5K463ZLVxk_xUrRbICGNoF44mbFcxrjW3yiblkbgw" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNjAxMzAzNTYwLCJleHAiOjE2MDEzNjcyMTksIm5iZiI6MTYwMTM2MzYxOSwianRpIjoiYWQ5MnFWd2VzWkY0dkZBcCIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.O-5K463ZLVxk_xUrRbICGNoF44mbFcxrjW3yiblkbgw" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/refresh" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9sb2dpbiIsImlhdCI6MTYwMTMwMzU2MCwiZXhwIjoxNjAxMzA3MTYwLCJuYmYiOjE2MDEzMDM1NjAsImp0aSI6IjNlWGNhUFMwMUtUb3AyZE0iLCJzdWIiOjEsInBydiI6IjQzZDY4YjU4M2JhNTMwN2Y5ZWUyY2RkZTE0ZDBiYThlZmVjN2M1MTcifQ.wOeXzmgOub1lpOE5loiM6VcHGwEu1KV7ebzHcgA78u0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/datasource" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9sb2dpbiIsImlhdCI6MTYwMTMwMzU2MCwiZXhwIjoxNjAxMzA3MTYwLCJuYmYiOjE2MDEzMDM1NjAsImp0aSI6IjNlWGNhUFMwMUtUb3AyZE0iLCJzdWIiOjEsInBydiI6IjQzZDY4YjU4M2JhNTMwN2Y5ZWUyY2RkZTE0ZDBiYThlZmVjN2M1MTcifQ.wOeXzmgOub1lpOE5loiM6VcHGwEu1KV7ebzHcgA78u0" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8000" />
+          <option name="urlPath" value="/api/auth/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9yZWZyZXNoIiwiaWF0IjoxNTk5MTQwNDM5LCJleHAiOjE1OTk3MjQxNDksIm5iZiI6MTU5OTcyMDU0OSwianRpIjoiVG9wbm9oeWdYQmNYRkZYZiIsInN1YiI6MSwicHJ2IjoiNDNkNjhiNTgzYmE1MzA3ZjllZTJjZGRlMTRkMGJhOGVmZWM3YzUxNyJ9.Oy3ZYXVbXSODrZwun496-n42ULkyubW7AOWALCOuAS4" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="login" />
+                <option name="value" value="pazzitiv" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="123qwe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{     &quot;name&quot;: &quot;Test&quot;,     &quot;modules&quot;: [         {             &quot;id&quot;: 1,             &quot;permissions&quot;: {                 &quot;create&quot;: false,                 &quot;read&quot;: true,                 &quot;update&quot;: false,                 &quot;delete&quot;: true             }         }     ] }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.Artisan Serve">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Artisan Serve" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/artisan" scriptParameters="serve">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.Artisan Serve" />
+      <item itemvalue="PHPUnit.phpunit.xml" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75fd6d76-d8e8-449b-8632-ebd1af626ef4" name="Default Changelist" comment="" />
+      <created>1597927687666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597927687666</updated>
+      <workItem from="1597927688923" duration="21600000" />
+      <workItem from="1598025657835" duration="11092000" />
+      <workItem from="1598270512852" duration="18910000" />
+      <workItem from="1598442108017" duration="32008000" />
+      <workItem from="1598615564185" duration="87267000" />
+      <workItem from="1599463317105" duration="37788000" />
+      <workItem from="1599720159269" duration="5868000" />
+      <workItem from="1599830653178" duration="192000" />
+      <workItem from="1599830864229" duration="596000" />
+      <workItem from="1600436859780" duration="599000" />
+      <workItem from="1600674531883" duration="1750000" />
+      <workItem from="1600688213280" duration="599000" />
+      <workItem from="1600689824815" duration="1252000" />
+      <workItem from="1600700350236" duration="7445000" />
+      <workItem from="1602169630275" duration="8982000" />
+      <workItem from="1602572563169" duration="11017000" />
+      <workItem from="1602583652151" duration="1590000" />
+      <workItem from="1602585252083" duration="16424000" />
+      <workItem from="1602833220899" duration="610000" />
+      <workItem from="1603104872085" duration="42955000" />
+      <workItem from="1603712049373" duration="1903000" />
+      <workItem from="1603729021607" duration="606000" />
+      <workItem from="1603810829345" duration="25000" />
+      <workItem from="1604310641126" duration="3199000" />
+      <workItem from="1604662093751" duration="2364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="174" key="#CLI_Interpreters" timestamp="1599548306767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="174" key="#CLI_Interpreters/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599548306767" />
+    <state x="667" y="181" key="#PHP" timestamp="1598023397904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="181" key="#PHP/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598023397904" />
+    <state x="414" y="174" width="1092" height="825" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598024593912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1092" height="825" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598024593912" />
+    <state x="693" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598024774768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="693" y="321" key="#com.intellij.fileTypes.FileTypeChooser/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598024774768" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1603379190553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603379190553" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599720657374" />
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602507025363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602507025363" />
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599204975500" />
+    <state x="733" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603373484788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="733" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603373484788" />
+    <state x="733" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599048760803" />
+    <state x="690" y="274" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1602503590224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="274" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602503590224" />
+    <state x="690" y="274" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599577281483" />
+    <state x="761" y="383" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#0" timestamp="1599463692437">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="383" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#0/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599463692437" />
+    <state x="738" y="432" key="ComposerInitDialogKey" timestamp="1598528465457">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="738" y="432" key="ComposerInitDialogKey/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598528465457" />
+    <state width="652" height="466" key="DebuggerActiveHint" timestamp="1602577650216">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="652" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1602577650216" />
+    <state width="652" height="466" key="DebuggerActiveHint/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1598274509036" />
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1603723387319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603723387319" />
+    <state x="739" y="274" key="FileChooserDialogImpl/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599548292591" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1604444028956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604444028956" />
+    <state width="930" height="344" key="GridCell.Tab.0.bottom/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601364369256" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1604444028955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604444028955" />
+    <state width="930" height="344" key="GridCell.Tab.0.center/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601364369256" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1604444028955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604444028955" />
+    <state width="930" height="344" key="GridCell.Tab.0.left/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601364369256" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1604444028956">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604444028956" />
+    <state width="930" height="344" key="GridCell.Tab.0.right/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601364369256" />
+    <state width="1877" height="306" key="GridCell.Tab.1.bottom" timestamp="1603475281613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="306" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603475281613" />
+    <state width="930" height="344" key="GridCell.Tab.1.bottom/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601364370033" />
+    <state width="1877" height="306" key="GridCell.Tab.1.center" timestamp="1603475281613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="306" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603475281613" />
+    <state width="930" height="344" key="GridCell.Tab.1.center/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601364370032" />
+    <state width="1877" height="306" key="GridCell.Tab.1.left" timestamp="1603475281613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="306" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603475281613" />
+    <state width="930" height="344" key="GridCell.Tab.1.left/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601364370032" />
+    <state width="1877" height="306" key="GridCell.Tab.1.right" timestamp="1603475281613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="306" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603475281613" />
+    <state width="930" height="344" key="GridCell.Tab.1.right/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601364370033" />
+    <state width="1860" height="344" key="GridCell.Tab.2.bottom" timestamp="1599133655872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="344" key="GridCell.Tab.2.bottom/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599133655872" />
+    <state width="1860" height="344" key="GridCell.Tab.2.center" timestamp="1599133655872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="344" key="GridCell.Tab.2.center/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599133655872" />
+    <state width="1860" height="344" key="GridCell.Tab.2.left" timestamp="1599133655872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="344" key="GridCell.Tab.2.left/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599133655872" />
+    <state width="1860" height="344" key="GridCell.Tab.2.right" timestamp="1599133655872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1860" height="344" key="GridCell.Tab.2.right/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599133655872" />
+    <state x="790" y="242" key="NewPhpClassDialog" timestamp="1603371422732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="242" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603371422732" />
+    <state x="790" y="242" key="NewPhpClassDialog/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599664761715" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1599547269564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599547269564" />
+    <state x="740" y="324" key="RestClientTextRequest" timestamp="1599206827402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="324" key="RestClientTextRequest/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599206827402" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1604672631349">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604672631349" />
+    <state x="461" y="164" key="SettingsEditor/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599720529905" />
+    <state width="960" height="520" key="XDebugger.FullValuePopup" timestamp="1602601933912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="960" height="520" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1602601933912" />
+    <state width="960" height="520" key="XDebugger.FullValuePopup/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599206922676" />
+    <state x="776" y="297" key="chooseDestDirectoryDialog" timestamp="1599483597939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="776" y="297" key="chooseDestDirectoryDialog/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599483597939" />
+    <state x="565" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602594295238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1602594295238" />
+    <state x="565" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599641810168" />
+    <state x="512" y="248" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599466945585">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="512" y="248" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599466945585" />
+    <state x="665" y="253" width="617" height="592" key="find.popup" timestamp="1603203624789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="253" width="617" height="592" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603203624789" />
+    <state x="665" y="253" width="617" height="592" key="find.popup/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601046159612" />
+    <state x="616" y="242" width="672" height="677" key="run.anything.popup" timestamp="1601303852922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="242" width="672" height="677" key="run.anything.popup/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601303852922" />
+    <state x="616" y="177" width="672" height="676" key="search.everywhere.popup" timestamp="1603364276743">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="177" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603364276743" />
+    <state x="616" y="177" width="672" height="676" key="search.everywhere.popup/1920.-573.1080.1880/-1920.7.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1599665975723" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/Exceptions/Handler.php</url>
+          <line>57</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php</url>
+          <line>663</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+{"error":"Non-static method Illuminate\\Support\\Collection::all() should not be called statically"}
